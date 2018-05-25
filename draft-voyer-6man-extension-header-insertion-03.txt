@@ -31,28 +31,6 @@ Abstract
    the packet or at any midpoint within the source domain.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
 Voyer, et al.          Expires December 26, 2018                [Page 1]
 
 Internet-Draft             IPv6 SRH Insertion          November 20, 2017
